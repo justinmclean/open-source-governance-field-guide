@@ -1,0 +1,77 @@
+\documentclass[10pt]{article}
+
+\usepackage[a5paper,margin=1.5cm]{geometry}
+\usepackage{setspace}
+\usepackage{titlesec}
+\usepackage{parskip}
+\usepackage{fancyhdr}
+\usepackage{fontspec}
+\usepackage[hidelinks]{hyperref}
+\usepackage{microtype}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{3pt}\setlength{\parskip}{0pt}}
+
+\setcounter{secnumdepth}{-1}
+
+% Font
+\setmainfont{Georgia}
+
+% Line spacing
+\setstretch{1.14}
+\setlength{\parskip}{4pt}
+
+% Reduce awkward line breaks / spacing
+\setlength{\emergencystretch}{2em}
+\tolerance=2000
+\hbadness=2000
+\pretolerance=2000
+
+% Paragraph formatting
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{3pt}
+
+% Section styling
+\titleformat{\section}
+  {\Huge\bfseries\centering}
+  {}
+  {0em}
+  {}
+
+\titleformat{\subsection}
+  {\large\bfseries\scshape}
+  {}
+  {0em}
+  {\raggedright}
+
+% Spacing before/after headings
+\titlespacing*{\section}{0pt}{4em}{3em}
+\titlespacing*{\subsection}{0pt}{2.4em}{0.6em}
+
+% Header / footer
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\small Why Open Source Projects Fail}
+\fancyhead[R]{\small \thepage}
+\fancyfoot[C]{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\begin{document}
+\thispagestyle{empty}
+
+% Title page
+\begin{center}
+\vspace*{2.2cm}
+{\Huge\bfseries $title$ \par}
+\vspace{1.5cm}
+{\Large $author$ \par}
+\vfill
+{\normalsize $date$ \par}
+\end{center}
+
+\newpage
+
+$body$
+
+\end{document}
