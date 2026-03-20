@@ -18,7 +18,7 @@ It is intended as a practical, experience-based guide for anyone involved in ope
 
 ## Read the Guide
 
-- 📄 [Download the PDF](./governance.pdf)
+- 📄 [Download the PDF](./why-open-source-projects-fail.pdf)
 
 ## Source
 
