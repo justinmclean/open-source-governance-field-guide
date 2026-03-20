@@ -1,24 +1,50 @@
 # Why Open Source Projects Fail (and How They Survive)
 
-A short field guide to the patterns that cause open source projects to fail and the governance structures that help them survive and scale.
+A short, practical field guide to why open source projects fail and how they stay healthy as they grow.
+
+> Most open source projects do not fail suddenly.  
+> They fail when their governance does not scale with their growth.
 
 ## Overview
 
 Open source projects rarely fail because of bad code. They fail when collaboration breaks down, decision-making becomes unclear, and communities lose trust.
 
-This field guide distills recurring patterns observed across many projects, focusing on:
+This field guide focuses on:
 
-- Why decision-making breaks down as projects grow
-- How responsibility becomes concentrated and creates bottlenecks
-- The role of consensus, merit, and transparency in healthy communities
-- How power dynamics, vendor influence, and informal practices affect outcomes
-- Why releases and milestones reveal the true state of governance
+- How decision-making breaks down as projects grow  
+- Why responsibility concentrates and creates bottlenecks  
+- How consensus, merit, and transparency build trust  
+- How power dynamics and vendor influence shape outcomes  
+- Why releases and milestones reveal governance health  
 
 It is intended as a practical, experience-based guide for anyone involved in open source projects.
 
+## How to Use This
+
+- Read it end-to-end or dip into sections  
+- Use it to evaluate your project  
+- Share it with your team to align on governance  
+
 ## Read the Guide
 
-- 📄 [Download the PDF](./why-open-source-projects-fail.pdf)
+- 📄 [Download the PDF](./why-open-source-projects-fail.pdf)  
+- 📝 [Read in Markdown](./manuscript.md)
+
+## Who This Is For
+
+This guide is useful for:
+
+- Maintainers and committers  
+- Contributors and community members  
+- Engineering leaders working with open source  
+- Organizations participating in open source projects  
+- Anyone interested in how open source communities scale  
+
+## Key Idea
+
+Open source does not fail because of code.
+
+It fails when decision-making, responsibility, and trust break down as projects grow.
 
 ## Source
 
@@ -26,23 +52,9 @@ It is intended as a practical, experience-based guide for anyone involved in ope
 
 The source is provided to make the work transparent, reproducible, and easy to adapt.
 
-## Who This Is For
-
-This guide is useful for:
-
-- Maintainers and committers
-- Contributors and community members
-- Engineering leaders working with open source
-- Organizations participating in open source projects
-- Anyone interested in how open source communities scale
-
-## Key Idea
-
-Sustainable open source is not just about code. It depends on governance: how decisions are made, how responsibility is shared, and how trust is maintained as projects grow.
-
 ## Status
 
-This is a standalone field guide and part of a broader body of work on open source governance.
+This is a standalone field guide and an entry point into a broader body of work on open source governance.
 
 Feedback and discussion are welcome.
 
@@ -57,4 +69,4 @@ For commercial use, please contact the author.
 ## Author
 
 Justin Mclean  
-Open source governance, community, and sustainability
+Open source governance, community building, and sustainability
