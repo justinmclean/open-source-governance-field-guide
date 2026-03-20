@@ -113,8 +113,7 @@ Slow failure erodes resilience and trust. Identifying and addressing signs early
 Recognize these patterns early. Projects that discuss them openly and adjust in a timely manner are more likely to avoid decline.
 
 \newpage
-# Part 2: How Healthy Projects\
-Work
+# Part 2: How Healthy Projects Work
 
 If projects fail due to structural weaknesses, they succeed through deliberate design.
 
@@ -266,8 +265,7 @@ Projects that resist documentation often do so in the name of flexibility. In pr
 Healthy projects recognize that culture begins as conversation but must eventually be made explicit if it is to scale effectively.
 
 \newpage
-# Part 4: Signals and\
-Reality Checks
+# Part 4: Signals and Reality Checks
 
 As projects grow and governance structures become more defined, the question shifts from how decisions are made to how those decisions are reflected in practice. Healthy governance is not only evident in policies and documented processes, but also in the recurring activities that define how a project operates.
 
@@ -344,8 +342,7 @@ When governance functions well, it becomes almost invisible. Contributors focus 
 Code matters, but code alone is not enough. The sustainability of an open source project depends on the systems that support collaboration. Those systems determine whether the project can continue to grow, adapt, and remain relevant over time.
 
 \newpage
-# What to Look For in a\
-Healthy Project
+# What to Look For in a Healthy Project
 
 A healthy open source project typically exhibits several consistent characteristics:
 
