@@ -27,7 +27,7 @@ Open source projects fail not because of bad code but because collaboration brea
 
 Early collaboration is easy. Small groups share context, communicate frequently, and make decisions quickly. Everyone is present, boundaries are clear, and trust keeps coordination costs low by resolving disagreements directly.
 
-Spotting the shift from a unified group to a broader community is crucial. This is when projects move from health, built on trust, to hidden challenges as shared context fades. Early recognition gives time to adapt.
+Spotting the shift from a unified group to a broader community matters. As shared context fades, decision-making becomes less obvious and coordination requires more structure. Recognising this early gives time to adapt.
 
 As more contributors join, especially from different organizations, decisions carry more weight. Changes affect more users and dependencies and may shape commercial products. New contributors bring new priorities, while shared context fades.
 
@@ -66,9 +66,9 @@ The following sections describe the most common patterns that lead to decline, i
 
 Projects rarely fail because of bad code. They fail when decisions become unclear, inconsistent, or contested.
 
-In the early stages, decision-making is implicit. Contributors know who to ask and which direction to take. They resolve disagreements quickly and rely on informal authority rooted in shared experience. As a result, decisions feel natural.
+In the early stages, decision-making is implicit. Contributors know who to ask and which direction to take. They resolve disagreements quickly and rely on informal authority rooted in shared experience. As a result, making decisions feels easy.
 
-As projects grow, shared context fades. New contributors miss earlier decisions, organizations arrive with different goals, and what was obvious becomes ambiguous. For example, two companies invest: one values performance and accepts complexity; the other prioritizes stability. Both are reasonable but lead to different choices.
+As projects grow, that shared context fades. New contributors miss earlier decisions, organizations arrive with different goals, and what was obvious becomes ambiguous. For example, two companies invest: one values performance and accepts complexity; the other prioritizes stability. Both are reasonable but lead to different choices.
 
 Without clear governance, contributors argue from individual priorities, and decisions hinge on personal judgment rather than agreed-upon rules. Even reasonable results can erode trust if they are not transparent. Some decisions are made before proposals are discussed; others spark lengthy debate. The project spends more time on process than on decisions.
 
@@ -80,17 +80,17 @@ If contributors cannot explain how a decision will be made, they will eventually
 
 ## The Maintainer Bottleneck
 
-When projects struggle, the instinct is to blame the maintainers. The problem is the system they are operating within.
+When projects struggle, the instinct is to blame the maintainers. In most cases, the problem lies in the system they are operating within.
 
-Most troubled projects have capable, committed maintainers who review contributions, guide development, and resolve issues—until these duties exceed a small team’s capacity.
+Most troubled projects have capable, committed maintainers who review contributions, guide development, and resolve issues, until these duties exceed a small team’s capacity.
 
-Maintainers take on broad responsibilities beyond code: direction, dispute resolution, enforcing norms, and balancing priorities. These tasks are hard to share or delegate. Often, one or two people make most key decisions as the project matures. The problem isn’t seen until they’re unavailable.
+Maintainers take on broad responsibilities beyond code: direction, dispute resolution, enforcing norms, and balancing priorities. These tasks are difficult to share or delegate, so over time one or two people make most key decisions as the project matures. The problem often goes unnoticed until they are unavailable.
 
-A typical situation illustrates this. One contributor proposes a feature aligned with an organization’s goals, but it adds complexity for others. Public discussion fragments. Some support the change, others oppose it, and many are undecided. Without clear governance, the maintainer becomes the bottleneck. They must evaluate arguments, balance trade-offs, and make the final decision. These decisions are not purely technical. They signal whose priorities matter.
+A typical situation illustrates this. One contributor proposes a feature aligned with an organization’s goals, but it adds complexity for others. Public discussion fragments. Some support the change, others oppose it, and many are undecided. Without clear governance, the maintainer becomes the bottleneck. They must evaluate arguments, balance trade-offs, and make the final decision. These decisions are not purely technical; they signal whose priorities matter.
 
-Over time, more decisions involve maintainers because there’s no structure for sharing responsibility. Reliance hinders progress. Decision-making becomes personal, outcomes are linked to individuals, and participation becomes more emotionally costly as conflicts intensify.
+Over time, more decisions involve maintainers because there’s no structure for sharing responsibility. This reliance hinders progress. Decision-making becomes personal, outcomes are linked to individuals, and participation becomes more emotionally costly as conflicts intensify.
 
-Unhealthy projects rely on maintainers for everything. When maintainers step back, progress slows. Knowledge and authority stay concentrated in too few. Healthy projects distribute responsibility and define roles, so decisions depend on the system rather than on individuals.
+Unhealthy projects rely on maintainers for everything. When maintainers step back, progress slows. Knowledge and authority remain concentrated in too few people. Healthy projects distribute responsibility and define roles, so decisions depend on the system rather than on individuals.
 
 Projects reliant on individuals are fragile. Projects reliant on systems adapt as people change.
 
@@ -104,7 +104,7 @@ Early signals are subtle. Contributors delay releases, but explain; pull request
 
 Over time, contributors disengage or take on too much. Participation narrows as a few do most of the work while others step back, creating a feedback loop concentrating responsibility.
 
-Projects with clear governance respond to signals. A missed release prompts discussion about capacity and priorities. Responsibility may be redistributed. The scope may be adjusted to match resources. These are normal adjustments, not signs of failure.
+Projects with clear governance respond to these signals. A missed release prompts discussion about capacity and priorities, responsibility may be redistributed, and scope adjusted to match available resources. These are normal adjustments, not signs of failure.
 
 Without structure, raising concerns becomes difficult. Contributors hesitate because the issues feel personal rather than procedural. Without a clear process, problems remain unaddressed.
 
@@ -238,7 +238,7 @@ Another common pattern is repeated dependence on the same individuals for critic
 
 These patterns do not cause immediate failure. Instead, they introduce friction that accumulates gradually, increasing the effort required to coordinate as participation grows. Contributors spend more time understanding how the project works and less time contributing.
 
-Addressing governance debt requires making implicit practices explicit. This includes documenting processes, clarifying roles, and distributing responsibility rather than concentrating it. While this introduces more structure, it reduces long-term complexity.
+Addressing governance debt requires making implicit practices explicit. This includes documenting processes, clarifying roles, and distributing responsibility rather than concentrating it. While this introduces more structure, it reduces friction and makes coordination easier as the project grows.
 
 The difference between projects with low and high governance debt is often visible in how easily new contributors can participate. In low-debt projects, expectations are clear, and processes are accessible. In high-debt projects, participation depends on navigating informal networks and unwritten rules.
 
@@ -258,11 +258,11 @@ Writing culture down provides a way to bridge this gap. Documenting processes, r
 
 The difference becomes clear when comparing projects. In one, knowledge is implicit, and new contributors rely on trial and error or direct guidance to understand how things work, slowing down onboarding and increasing mistakes. In another, key processes are documented, allowing contributors to understand expectations quickly and participate more effectively.
 
-Over time, documentation supports continuity. As contributors come and go, the project retains its institutional memory, and leadership becomes more replaceable because knowledge is not confined to individuals.
+Over time, documentation supports continuity. As contributors come and go, the project retains its institutional memory, and leadership becomes more replaceable because knowledge is not confined to a small number of individuals.
 
 Writing things down does not remove the need for interaction or judgment, but it provides a foundation that makes those interactions more productive.
 
-Projects that resist documentation often do so in the name of flexibility, but in practice, they preserve familiarity rather than adaptability. Without clear documentation, the project remains dependent on those who already understand it, limiting its growth.
+Projects that resist documentation often do so in the name of flexibility, but in practice, they make it easier for existing contributors while making it harder for new ones to participate. Without clear documentation, the project remains dependent on those who already understand it, limiting its growth.
 
 If your project depends on “how things are usually done,” it will not scale beyond the people who already understand it.
 
@@ -309,13 +309,11 @@ Healthy projects treat milestones as checkpoints rather than destinations. They 
 
 Projects that continue to evolve their governance are more resilient, while those that treat milestones as endpoints often see their structures degrade over time.
 
-If governance is not actively revisited after major milestones, it will gradually degrade.
+If governance is not actively revisited after major milestones, it will gradually drift out of alignment with the project’s needs.
 
 ## Common Failure Patterns
 
-Failure patterns in open source projects are rarely unique. The same combinations of issues appear repeatedly.
-
-These patterns are not isolated incidents but recurring structures that reinforce each other over time.
+Failure patterns in open source projects are rarely unique, with the same combinations of issues appearing repeatedly. These patterns are not isolated incidents but recurring structures that reinforce each other over time.
 
 One of the most common is the maintainer bottleneck, where a small number of individuals are responsible for a disproportionate share of decisions. This often emerges gradually as contributors defer to those with the most experience or context, creating dependency and limiting broader participation.
 
@@ -335,21 +333,15 @@ If multiple failure patterns appear together, intervention becomes harder and re
 
 The patterns described in this document are interconnected. Decision-making, responsibility, transparency, and power are not separate concerns but different aspects of the same system.
 
-Projects with clear decision-making processes are more likely to distribute responsibility effectively, avoid bottlenecks, and adapt as contributors change. Transparency supports this by making participation accessible and reducing reliance on individuals.
+Projects with clear decision-making processes are more likely to distribute responsibility, avoid bottlenecks, and adapt as contributors change. Transparency supports this by making participation accessible and reducing reliance on individuals.
 
-Open source projects do not succeed by accident. They succeed because they develop systems that allow people to work together effectively over time.
+Open source projects do not succeed by accident. They succeed by developing structures that allow people to work together effectively over time, and the progression from failure to design to scale to validation reflects how governance evolves as projects grow.
 
-The progression from failure to design to scale to validation reflects how governance evolves as projects grow.
+These structures are not static. They require ongoing attention and adaptation. Governance cannot be set once and left unchanged; it is a continuous process of maintaining clarity, distributing responsibility, and managing disagreement.
 
-These systems are not static. They require ongoing attention and adaptation. Governance is not something that can be set once and left unchanged; it is a continuous process of maintaining clarity, distributing responsibility, and managing disagreement.
+The most important characteristic of healthy governance is not complexity, but consistency. Processes do not need to be elaborate, but they must be visible, predictable, and trusted. When governance works well, it becomes almost invisible, allowing contributors to focus on building and improving the project with minimal friction. When it fails, the effects are immediately apparent, even if the cause is not.
 
-The most important characteristic of healthy governance is not complexity, but consistency. Processes do not need to be elaborate, but they must be visible, predictable, and trusted.
-
-When governance works well, it becomes almost invisible. Contributors focus on building and improving the project, and coordination happens with minimal friction. When it fails, the effects are immediately apparent, even if the cause is not.
-
-Code matters, but code alone is not enough. The sustainability of an open source project depends on the systems that support collaboration.
-
-If those systems are unclear, inconsistent, or dependent on individuals, the project will not sustain itself, regardless of the quality of its code.
+Code matters, but code alone is not enough. The sustainability of an open source project depends on how effectively people can work together. If coordination depends on unclear processes or specific individuals, the project will not sustain itself, regardless of the quality of its code.
 
 \newpage
 # What to Look For in a Healthy Project
@@ -358,11 +350,14 @@ A healthy open source project typically exhibits several consistent characterist
 
 - Decisions are made in the open, with clear processes for proposing, discussing, and resolving changes.
 - Responsibility is defined and distributed so that no single individual or organization becomes a bottleneck.
+- The project can operate effectively without relying on specific individuals.
+- No single organization dominates decision-making or direction.
 - Releases are predictable and reflect shared judgment rather than individual action.
 - New contributors can understand how the project operates without relying on informal networks or insider knowledge.
 - Documentation and transparency make it easier to learn how to participate effectively.
 - Disagreements are handled through process rather than personality.
-- Leadership is replaceable, and responsibility can be transferred without significant disruption.
+- Governance evolves as the project grows and is revisited as conditions change.
+- The project responds to early signals such as delays or narrowing participation.
 
 These characteristics do not guarantee success, but their absence is often a reliable indicator of future problems.
 
