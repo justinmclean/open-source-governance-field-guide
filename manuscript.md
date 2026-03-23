@@ -147,7 +147,7 @@ This broader view of contribution is essential. Work that is less visible, such 
 
 Problems arise when merit is equated primarily with output. In these cases, influence becomes concentrated among those who produce the most code, regardless of their involvement in the broader functioning of the community, and decision-making begins to reflect visibility rather than trust.
 
-Consider a contributor who submits large volumes of code but rarely reviews others' work or participates in discussions. Over time, their output gives them influence over direction, and others defer to them, partly because of their productivity and partly because disagreeing carries a social cost. Decisions may be technically sound, but contributors with relevant perspectives are not fully heard, and friction emerges downstream that could have been avoided.
+Consider a contributor who submits large volumes of code but rarely reviews others' work or participates in discussions. Over time, their output gives them influence over direction, and others defer to them, partly because of their productivity and partly because disagreeing carries a social cost. Decisions may be technically sound, but contributors with relevant perspectives are not fully heard, and friction emerges downstream that could have been avoided. In some cases, the volume of changes can also outpace the community’s ability to review and understand them, further reducing participation and concentrating influence.
 
 Healthy projects recognise that merit reflects participation in the system as a whole. Trust is built across multiple dimensions, and responsibility is granted to those who demonstrate that they can act in the project’s long-term interest.
 
@@ -204,23 +204,23 @@ The following sections examine how power emerges and how it can be managed as pr
 
 ## Vendor Neutrality
 
-Vendor neutrality ensures that no single organization can dominate decision-making.
+As projects grow, influence can concentrate within a single organization unless governance actively distributes it.
 
 Healthy projects depend on companies. They provide sustained investment, experienced contributors, and real-world use cases that shape the project’s evolution. The challenge is not whether companies participate, but how their participation affects decision-making.
 
-As projects grow, a common pattern emerges. One organization begins to contribute more heavily than others, providing a large portion of the code, employing several maintainers, and shaping the roadmap. This concentration of effort can be beneficial at first, accelerating development and providing stability.
+A common pattern emerges. One organization begins to contribute more heavily than others, providing a large portion of the code, employing several maintainers, and shaping the roadmap. This concentration of effort can be beneficial at first, accelerating development and providing stability.
 
 Over time, however, this can shift into dominance. Decisions become increasingly aligned with that organization’s priorities, governance roles are filled predominantly by its employees, and other contributors’ influence diminishes, even if they remain active.
 
 This shift is rarely explicit. It emerges through patterns of contribution and participation rather than formal control, so the project remains open in principle but less balanced in practice.
 
-The consequences are subtle but significant. Independent contributors may disengage if they feel their input has limited impact, and other organizations may reduce their investment if direction appears controlled elsewhere. Over time, the diversity of perspectives that support healthy decision-making narrows.
+The consequences are subtle but significant. Independent contributors may disengage if they feel their input has limited impact, and other organizations may reduce their investment if direction appears controlled elsewhere. Over time, the diversity of perspectives that supports healthy decision-making narrows.
 
-Projects that maintain vendor neutrality address this by establishing structures that prevent any single organization from dominating. This may include balancing representation in governance roles, requiring broader agreement for decisions, and ensuring processes are visible and consistent.
+Projects that address this risk establish structures that prevent any single organization from dominating. This may include balancing representation in governance roles, requiring broader agreement for decisions, and ensuring processes are visible and consistent.
 
 The goal is not to exclude companies, but to ensure that no single participant can determine direction unilaterally. This creates an environment where multiple stakeholders can contribute with confidence that their involvement matters.
 
-Vendor neutrality results in increased resilience. Projects that are not dependent on a single organization are better able to adapt when that organization’s priorities change and are more attractive to new contributors.
+Projects that maintain this balance are more resilient. They are better able to adapt when any one organization’s priorities change and are more attractive to new contributors.
 
 If one organization can effectively determine direction, the project is no longer operating as a community.
 
@@ -295,11 +295,11 @@ If releases depend on specific people or happen unpredictably, governance is not
 
 ## Graduation Is Not the End
 
-Milestones such as graduation mark transitions.
+Milestones mark transitions, not endpoints.
 
 A project that reaches maturity has demonstrated that it can operate under a particular set of conditions, but those conditions do not remain static. Contributors change roles or leave, new participants join with different expectations, and external factors introduce new pressures.
 
-In projects graduating through the ASF Incubator, this transition is especially visible. The structure that supported the project during incubation no longer applies, and the community must take full ownership of its governance. Not all communities are equally prepared for this shift.
+As projects move beyond their early growth phase, the structures that supported them initially are no longer sufficient. Responsibility must be sustained and actively maintained by the community itself, and not all projects are equally prepared for that shift.
 
 A common pattern is that responsibility begins to concentrate again after a period of stability. As some contributors step back and others take on more responsibility, earlier imbalances can re-emerge if governance is not actively maintained.
 
